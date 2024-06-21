@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "stuff/crosshair1"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

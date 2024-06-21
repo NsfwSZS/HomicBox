@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/flower_propeller/flower_propeller"
+	"$surfaceprop" "plastic"
+
+	"$bumpmap" "models/dronesrewrite/flower_propeller/flower_propeller_n"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" ".05"
+	"$phongfresnelranges" "[15 15 10]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.02 .02 .02]"
+}

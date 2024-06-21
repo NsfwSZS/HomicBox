@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/legs/legart"
+	"$surfaceprop" "metal"
+}

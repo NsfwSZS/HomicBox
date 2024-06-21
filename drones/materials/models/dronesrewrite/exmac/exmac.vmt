@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/exmac/exmac"
+	"$surfaceprop" "metal"
+
+	"$bumpmap" "models/dronesrewrite/exmac/exmac_n"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"
+	"$phongfresnelranges" "[.3 15 20]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.002 .002 .002]"
+}

@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/spark_flamelet"
+	"$additive" "1"
+	"$vertexalpha" "1"
+	"$vertexcolor" 1
+	"$translucent" "1"
+}

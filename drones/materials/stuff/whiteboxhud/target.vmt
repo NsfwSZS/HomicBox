@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "stuff/whiteboxhud/target"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

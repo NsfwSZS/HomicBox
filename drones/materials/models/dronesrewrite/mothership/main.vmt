@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/mothership/main"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/dronesrewrite/mothership/mainnormal"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".2"
+	"$phongfresnelranges" "[0 2 5]"
+}

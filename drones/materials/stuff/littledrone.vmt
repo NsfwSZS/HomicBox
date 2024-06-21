@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "stuff/littledrone"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

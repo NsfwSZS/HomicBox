@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/sisdr/sisdr"
+	"$surfaceprop" "metal"
+
+	"$bumpmap" "models/dronesrewrite/sisdr/sisdrn"
+
+	"$phong" "1"
+	"$phongexponent" "60"
+	"$phongboost" ".01"
+	"$phongfresnelranges" "[0 5 25]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.001 .001 .001]"
+}

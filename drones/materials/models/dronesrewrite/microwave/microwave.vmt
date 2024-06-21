@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/microwave/microwave"
+	"$surfaceprop" "metal"
+
+	"$bumpmap" "models/dronesrewrite/microwave/microwaven"
+
+	"$phong" "1"
+	"$phongexponent" "40"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0 8 25]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.005 .005 .005]"
+}

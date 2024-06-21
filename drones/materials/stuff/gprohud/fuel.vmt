@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "stuff/gprohud/fuel"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

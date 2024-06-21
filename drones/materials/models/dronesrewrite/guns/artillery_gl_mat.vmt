@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/guns/artillery_mat"
+	"$surfaceprop" "metal"
+
+	"$bumpmap" "models/dronesrewrite/guns/artillery_matn"
+
+	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[10 5 25]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmap" "models/dronesrewrite/guns/artillery_mat"
+	"$envmaptint" "[.1 .1 .1]"
+}

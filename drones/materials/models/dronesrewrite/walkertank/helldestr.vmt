@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/walkertank/helldestr"
+	"$surfaceprop" "metal"
+
+	"$bumpmap" "models/dronesrewrite/walkertank/helldestr_n"
+
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" ".1"
+	"$phongfresnelranges" "[0 5 25]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.001 .001 .001]"
+}

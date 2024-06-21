@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "stuff/decals/drrbigexp"
+	"$decal" 1
+  	"$decalscale" 0.5
+   	"$vertexalpha" 1
+}

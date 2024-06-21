@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "particles/dronesrewrite_sniper"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

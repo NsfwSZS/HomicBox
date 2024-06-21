@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/spider/body"
+	"$surfaceprop" "metal"
+
+	"$bumpmap" "models/dronesrewrite/spider/bl_n"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" ".006"
+	"$phongfresnelranges" "[10 5 25]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.001 .001 .001]"
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/camera/camera"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/dronesrewrite/camera/camera_n"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".1"
+	"$phongfresnelranges" "[0 2 25]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.01 .01 .01]"
+}

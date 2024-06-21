@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/dronebox/dronebox"
+	"$surfaceprop" "cardboard"
+
+	"$bumpmap" "models/dronesrewrite/dronebox/dronebox_n"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost" ".2"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".1"
+	"$phongfresnelranges" "[0 15 25]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.01 .01 .01]"
+}

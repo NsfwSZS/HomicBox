@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/guns/repairgun"
+	"$surfaceprop" "metal"
+}

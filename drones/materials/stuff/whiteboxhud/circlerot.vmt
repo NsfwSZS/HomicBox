@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "stuff/whiteboxhud/circlerot"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

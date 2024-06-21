@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "stuff/gprohud/cross_frame"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/rocket/rocket_mat"
+	"$surfaceprop" "metal"
+
+	"$bumpmap" "models/dronesrewrite/rocket/rocket_matn"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" ".2"
+	"$phongfresnelranges" "[0 15 20]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.004 .004 .004]"
+}

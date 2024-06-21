@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/dronesrewrite/guns/winch_housing"
+	"$surfaceprop"	"metalpanel"
+	"$bumpmap"		"models/dronesrewrite/guns/winch_housing_normal"
+}

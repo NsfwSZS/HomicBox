@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/cameradr/plastic"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/dronesrewrite/cameradr/plastic_n"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" ".05"
+	"$phongfresnelranges" "[0 2 25]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.005 .005 .005]"
+}

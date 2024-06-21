@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dronesrewrite/plasmadr/plasmadr"
+	"$bumpmap" "models/dronesrewrite/plasmadr/plasmadrnormal"
+	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".02"
+	"$phongfresnelranges" "[0 10 0]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.005 .005 .005]"
+}
